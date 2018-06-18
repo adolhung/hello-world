@@ -1,7 +1,7 @@
 # hello-world
 
-Hi I'm adolhung,a nintenboy!
-How about to share your friendcode?
-And a gamer!
-NS!
+Hi I'm adolhung,a nintenboy!\n
+How about to share your friendcode?\n
+And a gamer!\n
+NS!\n
 
